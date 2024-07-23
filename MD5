@@ -1,0 +1,10 @@
+0a48b4644b0d5fd9c1a652d3d74c2e45 *DESCRIPTION
+b49b52067ab030a13f5ec7d93e5c718d *LICENSE
+ce9b09fa31c2293365ccb9c5a6d77071 *NAMESPACE
+dba423eff489be77c9c9f01acb73df4a *R/alias.r
+6331782b6659cf977928169475c78f5b *README.md
+c9bdd2b4c6d42ac64b74eaf923b4b190 *man/alias.Rd
+c135fc358b6804d30e85be6fea392bd4 *man/figures/logo.svg
+32f7c3f0287d9bb0f322b04f56cfa938 *man/getters.Rd
+c00b0d7000f116f407716b75f4f5f64c *tests/testthat.r
+819f2802f35d63cb71e0dcf6f7f71321 *tests/testthat/test-alias.r
